@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   fijkplayer: ^0.10.0
-  wakelock: ^0.6.1
+  wakelock: ^0.6.1+2
 
 dev_dependencies:
   flutter_test:
